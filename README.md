@@ -1,5 +1,5 @@
 # CoreTempCheck
-A CPU Core Temperature Checker I made using bash.
+A CPU Core Temperature Checker made using bash.
 
 This basically uses the sensors command in repetition and provides the readings in a nice way. It also writes the output (for critical tempertatures) to temps.log.
 
